@@ -1,0 +1,4 @@
+id/co/merakjaya/calculatorsonny/BuildConfig.java
+ id.co.merakjaya.calculatorsonny.BuildConfig
+id/co/merakjaya/calculatorsonny/MainActivity.java
+ id.co.merakjaya.calculatorsonny.MainActivity
